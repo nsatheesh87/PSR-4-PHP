@@ -1,0 +1,20 @@
+{
+    "name": "sociomantic/gameapp",
+    "description": "Test API application for Sociomantic Interview",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Satheesh Narayanan",
+            "email": "nsatheesh87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Sociomantic\\": "src"
+        }
+    }
+}
